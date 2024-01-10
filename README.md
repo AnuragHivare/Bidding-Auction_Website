@@ -1,6 +1,8 @@
 # Bidding-Auction_Website
-This is a simple Bidding website where user can bid for any product also can add products for bidding.  Author - Anurag Hiware
-
+This is a simple Bidding website where user can bid for any product also can add products for bidding.  
+<br>
+Author - Anurag Hiware
+<br>
 How to Run
 Download the source code and extract the zip file.
 Download or set up any local web server that runs PHP script.
@@ -10,12 +12,13 @@ Copy and paste the source code to the location where your local web server acces
 Open a web browser and browse the project. E.g [http://localhost/simple-online-bidding-system] for the website and  [http://localhost/simple-online-bidding-system/admin]
 
 
-
+<br>
 Admin Default Access
-Username: anurag
-
-Password: 143
-
+<br>
+<b> Username: </b> anurag
+<br>
+<b> Password: </b> 143
+<br>
 <b>
 For Any Doubts, Ask me on - anuraghivare555@gmail.com 
 </b>
