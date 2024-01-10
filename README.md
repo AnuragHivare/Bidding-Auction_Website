@@ -1,6 +1,7 @@
 # Bidding-Auction_Website
 This is a simple Bidding website where user can bid for any product also can add products for bidding.
 
+Author - Anurag Hiware
 
 How to Run
 Download the source code and extract the zip file.
