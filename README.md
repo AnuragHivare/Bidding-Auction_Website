@@ -14,11 +14,15 @@ Open a web browser and browse the project. E.g [http://localhost/simple-online-b
 
 
 <br>
+
 Admin Default Access
+
 <br>
 <b> Username: </b> anurag
+
 <br>
 <b> Password: </b> 143
+
 <br>
 <b>
 For Any Doubts, Ask me on - anuraghivare555@gmail.com 
